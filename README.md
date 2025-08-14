@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/anwita-ghosh )  
+[![LinkedIn](https://www.linkedin.com/in/anwita-ghosh)  
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:anwita.official1410@gmail.com)
 
 ---
