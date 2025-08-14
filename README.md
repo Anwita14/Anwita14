@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Anwita 👋
 
-<!--
-**Anwita14/Anwita14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **4th-year Biomedical Engineering Student**  
+💡 Passionate about **IoT, Healthcare Devices & Machine Learning**  
+🔬 Projects: Smart Device for Early Detection of Cardiopathy and Induced Stress Condition, Dehydration Monitoring System, Automatic River Health Monitoring System  
+💻 Skills: **Python, C, MATLAB, Arduino, Streamlit**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Smart Device for Early Detection of Cardiopathy and Induced Stress Condition** – Monitors ECG, SpO₂, heart rate, temperature to detect cardiopathy 
+- **Hydration Monitoring System** – Uses temperature, humidity & GSR sensors to detect dehydration  
+- **Automatic River Health Monitoring** – IoT-based water quality tracking  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://www.linkedin.com/in/anwita-ghosh )  
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:anwita.official1410@gmail.com)
+
+---
+
+⭐ *I’m passionate about using technology to make healthcare smarter and more accessible.*
